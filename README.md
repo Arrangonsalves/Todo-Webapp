@@ -1,5 +1,7 @@
 # Todo-Webapp
+
 #Following features
+
 Add todo
 Edit todo
 List Dodo
@@ -10,6 +12,7 @@ Responsive layout
 
 
 #Technology stack
+
 Java 8+
 JSP and Servlet
 JDBC
