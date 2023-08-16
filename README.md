@@ -20,8 +20,13 @@ Responsive layout
 #Technology stack
 
 Java 8+
+
 JSP and Servlet
+
 JDBC
+
 MySQL database
+
 Eclipse IDE
+
 Tomcat server 8+
