@@ -3,11 +3,17 @@
 #Following features
 
 Add todo
+
 Edit todo
+
 List Dodo
+
 Delete Todo
+
 Login
+
 Signup
+
 Responsive layout
 
 
